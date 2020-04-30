@@ -52,10 +52,12 @@ Tecnologias ultilizadas no projeto:
 
 Esse projeto tem como objetivo o aprendizado da framework flutter para a utilização de animações em aplicações reais.
 
-## :iphone: :images_projeto: Images Projeto
+## :iphone: Images Projeto
 
-<img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg" height="150" />  
-<img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/homeScreen.jpeg" height="150" />
+![](https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg)
+
+![](https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/homeScreen.jpeg)
+
 
 ## 🤔 Como contribuir
 
