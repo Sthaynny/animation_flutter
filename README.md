@@ -54,8 +54,15 @@ Esse projeto tem como objetivo o aprendizado da framework flutter para a utiliza
 
 ## :iphone: :images_projeto: Images Projeto
 
-<img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg" height="150" />  
-<img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/homeScreen.jpeg" height="150" />
+<div style='display: inline-block;'>
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg" height="200" />  
+    <div style='width:10px'>
+    </div>
+    <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/homeScreen.jpeg" height="200" />
+
+</div>
+
+
 
 ## 🤔 Como contribuir
 
