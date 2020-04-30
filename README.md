@@ -32,7 +32,6 @@ Animações em Flutter
 <p align="center">
   <a href="#bookmark_tabs-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#images_projeto">Imagens Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -54,18 +53,13 @@ Esse projeto tem como objetivo o aprendizado da framework flutter para a utiliza
 
 ## :iphone: Images Projeto
 
-<<<<<<< HEAD
-<div style='display: inline-block;'>
+<div style="display: inline-block">
     <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg" height="200" />  
-    <div style='width:10px'>
+    <div style="width:10px">
     </div>
     <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/homeScreen.jpeg" height="200" />
 
 </div>
-
-
-=======
->>>>>>> 2902617c2f4af759f0c7c3c4367fc33f51468804
 
 ## 🤔 Como contribuir
 
