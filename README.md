@@ -32,6 +32,7 @@ Animações em Flutter
 <p align="center">
   <a href="#bookmark_tabs-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#images_projeto">Imagens Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -50,6 +51,11 @@ Tecnologias ultilizadas no projeto:
 ## 💻 Projeto
 
 Esse projeto tem como objetivo o aprendizado da framework flutter para a utilização de animações em aplicações reais.
+
+## :iphone: :images_projeto: Images Projeto
+
+<img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg" height="150" />  
+<img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/homeScreen.jpeg" height="150" />
 
 ## 🤔 Como contribuir
 
