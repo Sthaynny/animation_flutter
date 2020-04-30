@@ -52,8 +52,9 @@ Tecnologias ultilizadas no projeto:
 
 Esse projeto tem como objetivo o aprendizado da framework flutter para a utilização de animações em aplicações reais.
 
-## :iphone: :images_projeto: Images Projeto
+## :iphone: Images Projeto
 
+<<<<<<< HEAD
 <div style='display: inline-block;'>
     <img alt="" title="" src="https://raw.githubusercontent.com/Sthaynny/animation_flutter/master/images_app/loginScreen.jpeg" height="200" />  
     <div style='width:10px'>
@@ -63,6 +64,8 @@ Esse projeto tem como objetivo o aprendizado da framework flutter para a utiliza
 </div>
 
 
+=======
+>>>>>>> 2902617c2f4af759f0c7c3c4367fc33f51468804
 
 ## 🤔 Como contribuir
 
